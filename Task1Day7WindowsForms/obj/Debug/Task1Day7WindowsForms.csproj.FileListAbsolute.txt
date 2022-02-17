@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\bin\Debug\Task1Day7WindowsForms.exe.config
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\bin\Debug\Task1Day7WindowsForms.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\bin\Debug\Task1Day7WindowsForms.pdb
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.Form1.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.Properties.Resources.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Task1Day7WindowsForms\obj\Debug\Task1Day7WindowsForms.pdb

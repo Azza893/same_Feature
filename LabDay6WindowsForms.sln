@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LabDay6WindowsForms", "LabDay6WindowsForms\LabDay6WindowsForms.csproj", "{175E0C1B-A57C-495D-B0EC-06F2F582003C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speed", "Speed\Speed.csproj", "{8F385C7C-79B9-42AE-86D0-59AA5B52FC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1Day7WindowsForms", "Task1Day7WindowsForms\Task1Day7WindowsForms.csproj", "{92CEE53A-A749-4C8A-A1BC-68B59ADEBB4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDlB", "D:\advc#\MDlB\MDlB.csproj", "{DA7696DB-67A2-4006-9D4E-779244305810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "drag and dorp", "WindowsFormsApp1\drag and dorp.csproj", "{7D8F73CB-908D-4A32-BD41-7F63EC5133B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTextStyle", "ChangeTextStyle\ChangeTextStyle.csproj", "{11C642B7-AA13-4A5D-8F59-CD74AD33116A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{175E0C1B-A57C-495D-B0EC-06F2F582003C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{175E0C1B-A57C-495D-B0EC-06F2F582003C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{175E0C1B-A57C-495D-B0EC-06F2F582003C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{175E0C1B-A57C-495D-B0EC-06F2F582003C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F385C7C-79B9-42AE-86D0-59AA5B52FC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F385C7C-79B9-42AE-86D0-59AA5B52FC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F385C7C-79B9-42AE-86D0-59AA5B52FC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F385C7C-79B9-42AE-86D0-59AA5B52FC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92CEE53A-A749-4C8A-A1BC-68B59ADEBB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92CEE53A-A749-4C8A-A1BC-68B59ADEBB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92CEE53A-A749-4C8A-A1BC-68B59ADEBB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92CEE53A-A749-4C8A-A1BC-68B59ADEBB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7696DB-67A2-4006-9D4E-779244305810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7696DB-67A2-4006-9D4E-779244305810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7696DB-67A2-4006-9D4E-779244305810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7696DB-67A2-4006-9D4E-779244305810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8F73CB-908D-4A32-BD41-7F63EC5133B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8F73CB-908D-4A32-BD41-7F63EC5133B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8F73CB-908D-4A32-BD41-7F63EC5133B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8F73CB-908D-4A32-BD41-7F63EC5133B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C642B7-AA13-4A5D-8F59-CD74AD33116A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C642B7-AA13-4A5D-8F59-CD74AD33116A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C642B7-AA13-4A5D-8F59-CD74AD33116A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C642B7-AA13-4A5D-8F59-CD74AD33116A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D28ABE-D41A-4070-B923-6B8A3F19931F}
+	EndGlobalSection
+EndGlobal

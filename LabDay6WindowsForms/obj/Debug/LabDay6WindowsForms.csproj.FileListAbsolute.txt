@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\bin\Debug\LabDay6WindowsForms.exe.config
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\bin\Debug\LabDay6WindowsForms.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\bin\Debug\LabDay6WindowsForms.pdb
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.Form1.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.Properties.Resources.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.pdb
+C:\Users\Dell\source\repos\LabDay6WindowsForms\LabDay6WindowsForms\obj\Debug\LabDay6WindowsForms.FormatForm.resources

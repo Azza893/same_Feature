@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\bin\Debug\ChangeTextStyle.exe.config
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\bin\Debug\ChangeTextStyle.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\bin\Debug\ChangeTextStyle.pdb
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.Form1.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.Properties.Resources.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\ChangeTextStyle\obj\Debug\ChangeTextStyle.pdb

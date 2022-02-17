@@ -1,0 +1,10 @@
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\bin\Debug\Speed.exe.config
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\bin\Debug\Speed.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\bin\Debug\Speed.pdb
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.Form1.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.Properties.Resources.resources
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.exe
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.pdb
+C:\Users\Dell\source\repos\LabDay6WindowsForms\Speed\obj\Debug\Speed.csproj.AssemblyReference.cache
